@@ -1,0 +1,22 @@
+img.mugshot {
+    float: left;
+    margin: 0px 15px 15px 0px;
+}
+
+#menu div {
+    text-align: center;
+}
+
+div.menuitem {
+    width: 33%;
+    display: inline-block;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
