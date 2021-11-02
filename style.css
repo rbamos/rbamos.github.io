@@ -1,22 +1,64 @@
-img.mugshot {
-    float: left;
-    margin: 0px 15px 15px 0px;
+body {
+	background: #eee;
+	color: #333;
+	font-size: 14px;
+	font-family: arial,sans-serif;
+	line-height: 1.4;
+	margin: 0;
 }
 
-#menu div {
-    text-align: center;
+header {
+	background: #1a237e;
+	height: 200px;
 }
 
-div.menuitem {
-    width: 33%;
-    display: inline-block;
+main {
+	background: #fff;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+	margin: -130px auto 32px;
+	padding: 64px;
+	width: 800px;
 }
 
-hr {
-    display: block;
-    height: 1px;
-    border: 0;
-    border-top: 1px solid #ccc;
-    margin: 1em 0;
-    padding: 0;
+h1,
+h2 {
+	margin: 0;
+}
+
+a {
+	color: #245dc1;
+	text-decoration: none;
+}
+
+a.highlight {
+	color: #ff5722;
+}
+
+.flex {
+	display: flex;
+}
+
+.flex > .left {
+	flex: 1;
+}
+
+.photo {
+	margin: 0 0 16px 16px;
+	float:right;
+}
+
+.callout {
+	background: #eee;
+	border-left: 4px solid #ff5722;
+	line-height: 1.6;
+	margin: 16px 0;
+	padding: 16px;
+}
+
+.paper {
+	margin: 16px 0;
+}
+
+.links {
+	margin: 4px 16px;
 }
