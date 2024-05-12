@@ -26,6 +26,7 @@ domain: "ryan-b-amos.com"
 url: "https://ryan-b-amos.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ryanbmamos
 github_username:  rbamos
+email: ryana&#109;o&#115;&#64;prot&#111;nm&#97;i&#108;&#46;&#99;&#111;m
 
 # Build settings
 theme: minima
