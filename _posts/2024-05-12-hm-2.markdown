@@ -97,8 +97,8 @@ Everything is done! All that was left was to slap the sticker on, attach the kno
 ## Lessons
 1. Measure twice cut once.
 2. Triple check the measurements. Then check them again.
-3. Short solder legs is what you want.
-4. I'm not sure which capacitors I'm supposed to get, but check the measurements next time.
+3. Short potentiometer legs is what you want.
+4. I'm not sure exactly which capacitors I'm supposed to get, but get film ones and check the measurements next time.
 5. PedalPCB's polarity is wrong. I'm really glad I didn't destroy the circuit, and now I know for next time.
 
 ## Next steps
