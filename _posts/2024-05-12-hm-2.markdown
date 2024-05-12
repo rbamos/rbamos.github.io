@@ -1,0 +1,115 @@
+---
+layout: post
+title:  "HM-2 Build"
+date:   2024-05-12 09:52 -0400
+categories: 
+---
+
+# Why build an HM-2?
+After finishing my cover of Supposed to Rot ([Original](https://www.youtube.com/watch?v=IxMnWiIvPrQ&pp=ygUPc3VwcG9zZWQgdG8gcm90)) ([My cover](https://www.youtube.com/watch?v=KVK3Xs1eAUo)):
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KVK3Xs1eAUo?si=0OSxtiZXiQS7Utg7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+I got pretty interested in the guitar pedal made famous by this album, and this genre more generally, the [Boss HM-2](https://en.wikipedia.org/wiki/Boss_HM-2). These pedals only really gained fame after manufacturing stopped, leading to the perfect conditions for scarcity. Fortunately, getting one of these pedals isn't too hard today with many clones on the market and the HM-2X Waza Craft re-release by Boss.
+
+I was looking at suggestions for an HM-2 clone, and I stumbled across [this comment](https://www.reddit.com/r/guitarpedals/comments/iygqo4/what_is_the_best_hm2_clone/g6culu5/) that sent me down a rabbit hole: (Thanks /u/InManusTuasDomine!)
+![If you're handy, pedalpcb has a clone pcb. Their stuff is great.](/photos/hm-2/reddit-post.png)
+
+I've got a bit of electronics experience, but I'd never done anything quite like this before. I find cautiously diving headfirst to be a great way to learn, so off I went.
+
+## Sourcing the parts
+I sourced parts from 3 online stores:
+* [PedalPCB](https://www.pedalpcb.com/) (obviously)
+* [Tayda](https://www.taydaelectronics.com/)
+* [StompBoxParts](https://stompboxparts.com/)
+
+PedalPCB provided the PCB and the op-amps. Tayda provided the bulk of the electronics and the housing (pre-drilled and painted). StompBoxParts provided some of the more unusual parts, like Germanium diodes. I purchased ceramic capacitors -- in hindsight, I was warned not to, but in the flood of information I missed/misunderstood that warning. Everything turned out okay, but I wouldn't do it again!
+
+![Assorted parts](/photos/hm-2/parts-1.png)
+
+![Assorted parts 2](/photos/hm-2/parts-2.png)
+
+I also treated myself to a new soldering iron. My 12 year old, $10 Radio Shack one takes forever to heat up, then burns everything it touches.
+
+## PCB Assembly
+Once I had all of the pieces, I started assembling the parts on the PCB. Pro-tip: bend the leads inwards, not outwards, 
+so they don't short circuit with their neighbors; that's the opposite of what you see here.
+
+![PCB partial completion](/photos/hm-2/pcb-pre-solder.png)
+
+And soldered them.
+
+![PCB after soldering](/photos/hm-2/pcb-soldered.png)
+
+Unfortunately some of the capacitors I bought had the wrong size; the lead spacing was correct but they were too wide and obstructed access. 
+You'll see those missing here.
+
+You'll notice the potentiometers are also missing. Sadly I purchased every type of potentiometers except the one I actually needed.
+ I sent off another order for replacement capacitors and short-leg potentiometers.
+
+## Housing assembly
+
+I dry fit everything to make sure there wouldn't be any problems getting everything in the housing
+
+![Dry fit -- the PCB isn't soldered in, but the components are in place](/photos/hm-2/dry-fit.JPG)
+
+Then I alligator clipped everything up and disaster: it sounds like trash!
+
+## Diagnostics part 1
+
+I hooked everything up to PedalPCB's Auditorium testing platform (glad I grabbed one!) to eliminate any problems with the external wiring. 
+Doing so did indeed eliminate any risk that my housing wiring was the issue.
+
+![Testing in the Auditorium](/photos/hm-2/testing.JPG)
+
+I did a lot of testing. First I touched up these terrible solder joints.
+
+![My terrible solder joints](/photos/hm-2/solder-close-up.JPG)
+
+Unfortunately that didn't solve the problem. Ultimately I went through every single part and checked the values. It turns out that reading resistor and capacitor codings isn't too difficult and you can get pretty quick at it. Here, at resistor 14, was the problem:
+
+![The problem resistor: Brown, red, black, orange, Brown](/photos/hm-2/problem.jpg)
+
+The colors look a bit weird on the camera, but the colors were brown, red, black, orange, brown -- a 120 * 1000 = 120k ohm resistor. That's not consistent with [the build docs](https://docs.pedalpcb.com/project/Promethium.pdf)! Yet another order I sent in to get the correct resistor shipped, and so we wait.
+
+## Diagnostics part 2
+
+After replacing the bad resistor, I got that sweet, sweet buzzsaw sound out of the pedal Auditorium. It was time to hook it up. I soldered up the external wiring and...
+
+Nothing! What? The LED wouldn't even turn on. After lots of multimeter shenanigans, I discovered swapping the polarity (positive voltage to the negative terminal) would light up the LED, and then I confirmed this by using a polarity swapping cable and checking the Auditorium's polarity. Easy fix -- just swap the leads coming off the power cable right? Sadly that wasn't enough; my power jack was grounding the neutral line to the box, so I needed to get a new insulated jack. Yet another shipment required...
+
+## Decoration
+
+I created a design for the face in Inkscape, laying out some public domain SVG art and text on top of the drill template
+
+![The sticker template](/photos/hm-2/sticker.png)
+
+I sent the design off to get printed as a red vinyl sticker. Sadly, it came in all the wrong dimensions. I wonder if something happened with cropping and resizing during format conversion, either on my end or theirs. Either way, I didn't want to wait another 2 weeks to finish this project, so I went to my local maker space and printed off the vinyl sticker with their help. This turned out to be way more tricky than I expected; I guess $10 wasn't really such a bad deal after all.
+
+## The final product
+
+Everything is done! All that was left was to slap the sticker on, attach the knobs, and close it up.
+
+![Front](/photos/hm-2/finished-front.JPG)
+
+![Internals](/photos/hm-2/finished-guts.png)
+
+## Lessons
+1. Measure twice cut once.
+2. Triple check the measurements. Then check them again.
+3. Short solder legs is what you want.
+4. I'm not sure which capacitors I'm supposed to get, but check the measurements next time.
+5. PedalPCB's polarity is wrong. I'm really glad I didn't destroy the circuit, and now I know for next time.
+
+## Next steps
+For housing artwork, I want to explore some other options:
+* Tayda offers UV printing, but buying a subscription to Adobe for one print job seems absurd.
+* Etching looks interesting. I have a laser printer, so I can do the toner transfer.
+* I think my local maker space has a laser cutter, so I could try laser engraving too.
+
+For the next pedal, I'm not sure what I'd do:
+* I'd like a reverb of some kind. The FV-1 looks interesting.
+* I'd also be curious about chorus or phaser pedals.
+* There are some other pedals that could be useful -- overdrive or Boost
+
+And, of course, learn some more HM-2 music!
