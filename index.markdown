@@ -11,13 +11,13 @@ layout: home
 
 Hello! 
 
-I'm currently a cybersecurity engineer at a financial institution. I'm not open to new opportunities.
+I'm currently a cybersecurity engineer at a financial institution.
 
 I received my PhD from Princeton in April 2022. My PhD advisors were <a href="https://www.princeton.edu/~pmittal/">Prateek Mittal</a> and <a href="https://www.cs.princeton.edu/~felten/">Ed Felten</a>. My dissertation work focused on longitudinal internet measurements to address and understand consumer protection issues. I'm generally interested in cryptography, security, privacy, and tech policy. Additionally, I have experience in computational genomics and computational immunology. From 2022-2025 I was a software engineer at Panorama Education on the Security Squad.
 
 In my spare time, I [climb rocks](https://www.mountainproject.com/user/200319301/ryan-amos), I play the [guitar](/music/), I ferment things (usually intentionally), I help run a [local board game group](https://www.highland-park.games/), and I run a D&D campaign. Previously, I founded [Princeton University Blacksmiths](https://materials.princeton.edu/education/student-organizations/princeton-blacksmiths), I was a director for the [New Jersey Blacksmiths Association](https://njblacksmiths.org), and I [taught rock climbing](https://amga.com/hire-a-guide/?page=CiviCRM&q=civicrm/profile/view&reset=1&id=21643&gid=32).
 
-My publications and prior work can be found on my ([link](resume.pdf)).
+My publications and prior work can be found on my resume ([link](resume.pdf)).
 
 You can reach me at <a href='mail&#116;&#111;&#58;ry%61na&#109;os&#64;p&#114;oto&#110;&#109;&#37;&#54;1i%&#54;C&#46;c&#37;6Fm'>ryana&#109;o&#115;&#64;prot&#111;nm&#97;i&#108;&#46;&#99;&#111;m</a>.
 
