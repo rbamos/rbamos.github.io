@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "How blackmithing helped me find my software engineering job; or the TPAAAT isn't just for anvils"
+date:   2026-04-05 12:00:00 -0400
+categories: 
+---
+
+> **SUMMARY**: If you're looking for a job, or anything really, ask everyone you meet. It's hard but it's effective.
+
+When I was in the latter half of my college years, I started to develop an interest in blacksmithing. I built a home forge, bought a cheap "anvil" (or [anvil-shaped object](https://anvilfire.info/grizzly-anvils-and-chinese-asos/)), and became enamored with the craft. Pretty soon, I wanted a real anvil with a hardened steel face. It turns out buying a new, quality anvil was way out of my budget, on the order of thousands of dollars for a good one. So I did a lot of reading, and came across the "[Thomas Powers Applied Anvil Acquisition Technique](https://www.iforgeiron.com/topic/3602-thomas-powers-applied-anvil-acquisition-technique-tpaaat/)".
+
+<!-- Add a picture of my home setup -->
+
+## The TPAAAT
+The TPAAAT is really quite simple. Ask *everyone* you meet about whether they know where you can get an anvil. Seriously, everyone. Reach out to every person you know in your area, ask them if they have an anvil, if their uncle has an anvil, if their friend has an anvil, and if they'd be willing to sell it to you. Talk to every person you meet, even if you don't know them.
+
+If you are like me, you might think "that sounds horrible, asking people I don't know for a favor!". But this is not how human psychology works! Most people *love* helping others, especially when it takes almost no effort. As long as you're not pushy (e.g. asking the same people multiple times) or disruptive (e.g. grabbing the microphone during a funeral), people will generally want to help you. Also, from my experience, the question "Do you know where I can buy an anvil?" is so unusual it's intriguing. Many people want to help you out just because they've never met someone who wants to acquire such an archaic thing.
+
+## How I finally got my first anvil
+Anticlimactically, I bought a Mousehole anvil from a New England Blacksmiths meet in NH.
+
+<!-- add a picture of the anvil -->
+
+## Graduating as Dr. Unemployed
+I had just graduated from my PhD program with basically nothing lined up. I figured it would be easier to search for a job when I wasn't stressed about writing my dissertation and defending\[1\]. So I graduated, and then it was time to hunt. 
+
+Like I'm sure many people do, I pulled up LinkedIn and Indeed and started looking for jobs. And, like I'm sure many people experience, I heard back nothing. This makes some sense, if you think about it -- there are probably a handful of jobs that are optimized for these platforms, everyone sees those jobs, everyone applies for them, they get flooded. I have to imagine there's a long tail of jobs that get very few applications. Ideally what you want is to find that long tail, but how? Those are the jobs that are hard to find on these platforms!
+
+It turns out, referrals are a great way to get noticed. If you're not familiar with referrals, perhaps because you're not in industry, someone who works at a company can refer a candidate for a role. This is usually mutually beneficial -- referred candidates are usually of a higher quality, partially because the referrer is staking a bit of their reputation on the referral; the referrer helps a contact get a job and often collects a referral bonus; and the referred candidate gets a shot at the job. Win-win-win\[2\]!
+
+## The TPAAAT, again
+
+Unfortunately, getting a referral isn't easy. It turns out TPAAAT isn't just for anvils. Just swap out "anvil" for anything you'd like. So you want a SWE job? Ask literally everyone. And that's exactly what I did. I have to admit, it was exhausting for me, but I did my best to stick to the goal of asking everyone I met.
+
+## Success
+I was at [Rockville Climbing Center](https://www.rockvilleclimbing.com/), bouldering, and I was asking everyone I met if knew anyone hiring SWEs. Eventually, someone I had just met, Ila, said (paraphrasing) "Yes, I work at Panorama Education and we're hiring.". I got her contact, she referred me, and after a few interviews I got an offer!
+
+<!-- Rockville whip video -->
+
+I had 3 other offers lined up when I accepted the Panorama offer. One was a law firm who was looking for a technology expert; I was referred to that role by a colleague who had interned for them. Another was for a small local company that was recruiting at a local job fair\[3\]. The last one was a defense contractor I applied to cold on Indeed.
+
+## The takeaway
+If you are on the job market, looking for a job, ask every. single. person. you know and every. single. person. you meet for a lead\[4\]. You never know who might know someone who knows someone. 
+
+[Social distances](https://en.wikipedia.org/wiki/Six_degrees_of_separation) are [smaller than we think](https://ojs.aaai.org/index.php/SOCS/article/download/18200/17991), and people generally like being helpful. Leverage your network, and remember that networking isn't about being slimy and self-serving, it's about making genuine, mutual benefical connections.
+
+## Footnotes
+\[1\] Of course, it's not called a "defense" at Princeton, because Princeton has to have their own terminology for everything. Instead, it's a "Final Public Oral Examination" (FPO). Other fun terminology -- your qualifying exam is a "General Examination"; for funding you don't become a teaching assistant (TA) or research, you take on an assistantship in instruction (AI). At least they give out PhDs instead of DPhils.
+
+\[2\] It would be remiss of me to not mention that referral-heavy filling of roles also results in a "the rich get richer" effect, where people already well connected to those in desireable/prestigious/etc roles are more likely to get them. If you want, for example, a high paying job, it's much easier to get one if you know lots of people in high paying jobs, possibly through your family. So referrals are also a vehicle for nepotism and limit economic mobility. Note that referrals aren't a free pass; you still need to pass the interview. My understanding is they get your foot in the door -- it's more likely you'll get that first interview.
+
+\[3\] Recruiting ≈ Referrals. Both get your resume looked at. I think recruiters generally have a bit more sway.
+
+\[4\] Within reason :)
