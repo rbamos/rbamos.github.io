@@ -9,7 +9,7 @@ categories:
 
 When I was in the latter half of my college years, I started to develop an interest in blacksmithing. I built a home forge, bought a cheap "anvil" (or [anvil-shaped object](https://anvilfire.info/grizzly-anvils-and-chinese-asos/)), and became enamored with the craft. Pretty soon, I wanted a real anvil with a hardened steel face. It turns out buying a new, quality anvil was way out of my budget, on the order of thousands of dollars for a good one. So I did a lot of reading, and came across the "[Thomas Powers Applied Anvil Acquisition Technique](https://www.iforgeiron.com/topic/3602-thomas-powers-applied-anvil-acquisition-technique-tpaaat/)".
 
-<img src="../photos/tpaaat/aso.jpg" width="45%" title="The ASO" alt="My ASO on a stand"> <img src="../photos/tpaaat/forge.jpg" width="45%" title="The forge" alt="My homemade forge. Janky looking">
+<img src="/photos/tpaaat/aso.jpg" width="45%" title="The ASO" alt="My ASO on a stand"> <img src="/photos/tpaaat/forge.jpg" width="45%" title="The forge" alt="My homemade forge. Janky looking">
 
 ## The TPAAAT
 The TPAAAT is really quite simple. Ask *everyone* you meet about whether they know where you can get an anvil. Seriously, everyone. Reach out to every person you know in your area, ask them if they have an anvil, if their uncle has an anvil, if their friend has an anvil, and if they'd be willing to sell it to you. Talk to every person you meet, even if you don't know them.
@@ -19,7 +19,7 @@ If you are like me, you might think "that sounds horrible, asking people I don't
 ## How I finally got my first anvil
 Anticlimactically, I bought a Mousehole anvil from a New England Blacksmiths meet in NH.
 
-<img src="../photos/tpaaat/mousehole_anvil.jpg" width="45%" title="The ASO" alt="My ASO on a stand"> 
+<img src="/photos/tpaaat/mousehole_anvil.jpg" width="45%" title="The ASO" alt="My ASO on a stand"> 
 
 ## Graduating as Dr. Unemployed
 I had just graduated from my PhD program with basically nothing lined up. I figured it would be easier to search for a job when I wasn't stressed about writing my dissertation and defending\[1\]. So I graduated, and then it was time to hunt. 
@@ -38,7 +38,7 @@ I was at [Rockville Climbing Center](https://www.rockvilleclimbing.com/), boulde
 Here's a pretty unrelated video of me climbing in 2021 at Rockville:
 
 <video width="320" height="240" controls title="Rockville" alt="The author leading, and falling, at Rockville Climbing Center">
-  <source src="../photos/tpaaat/20210727_202151.mp4" type="video/mp4">
+  <source src="/photos/tpaaat/20210727_202151.mp4" type="video/mp4">
 </video>
 
 I had 3 other offers lined up when I accepted the Panorama offer. One was a law firm who was looking for a technology expert; I was referred to that role by a colleague who had interned for them. Another was for a small local company that was recruiting at a local job fair\[3\]. The last one was a defense contractor I applied to cold on Indeed.
