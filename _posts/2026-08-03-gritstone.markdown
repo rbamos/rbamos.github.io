@@ -141,10 +141,15 @@ head there. Plus apparently south Wales has no midges, which sounds epic.
 
 ## Footnotes
 [^1]: They provide an awesome service! Car pickup in London, transport to the crag, 1-1 instruction with a guide.
+
 [^2]: Amazingly, every other route we did was on Mountain Project. I had to get my ticks in, so I got to submit my first
     route to Mountain Project.
+
 [^3]: England is facing one of its biggest droughts in recent history. The whole countryside is straw-colored where it
     should be grassy-green
+
 [^4]: The Powerlinez's granitic gneiss is even grippier, but it's so grippy it tears all your skin off.
+
 [^5]: Like the Black Diamond ATC or Petzl Reverso
+
 [^6]: My second anvil (first "real" anvil) was a Mousehole. Sadly it was stolen in 2020.
