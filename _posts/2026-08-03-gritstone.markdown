@@ -29,14 +29,19 @@ I learned quite a few things, which I will now document in excruciating detail.
 
 
 ## Language:
-There were fewer things here than I thought, but:
+There were fewer new things here than I thought, but:
 * A cliff is a rock wall by the sea, a rock wall on land is a crag
 * It's bee-LAY, not buh-LEH
 * I'm still confused on where walking through nature is called a "hike" vs a "walk". I think it's not universal?
-
+* Waterproofs are what you wear if you don't want to get wet
 
 There's probably more I missed!
 
+<center>
+<img src="/photos/gristone/flying-buttress.jpg" width="50%" title="Flying Buttress" alt="Me, leading Flying Buttress">
+
+_Climbing a crag, not a cliff_
+</center>
 
 ## British Trad Grades
 If you watch British Trad Climbing videos with pro climbers, you'll see these climbs where some lunatic is
@@ -101,18 +106,28 @@ Some just generally interesting things:
 * Apparently the peak district is a popular hiking spot too. We saw a lot of people out for a stroll on top of the
   cliff, including some folks there for a birthday party
 
+<center>
+<img src="/photos/gristone/inverted-v.jpg" width="50%" title="Inverted V" alt="Me, following">
+
+_Topping out on the Top 50 Classic "Inverted V"_
+</center>
+
 
 ## Climbing technical skills
 The Brits only use tube-style devices[^5] for trad climbing. My guide prohibited me from using an ABD, and no one at the
 crag one using an ABD. I think this actually makes a lot of sense based on the climbing I saw.
 
+<center>
+<img src="/photos/gristone/indirect-belay.jpg" width="50%" title="Indirect belay" alt="Me, sitting by the cliff edge, giving a staged indirect belay">
+
+_Demonstrating an indirect belay, after my follower topped out_
+</center>
 
 For belaying the leader, the typical protection is more marginal than I've seen at other crags. The protection on the
 climbs we chose was certainly ample (G/PG), but many of the cam placements were shallow or flaring. Nuts and hexes
 often provided more secure options. As far as I know, gritsone is not soft like US desert sandstone, but there are many
 hollow flakes that provide the only protection options. I think because of this, the Brits believe that any force
 reduction is worthwhile, and therefore insist on tube-style devices.
-
 
 In many instructional videos from the UK, I had seen people belaying from the top with an indirect belay, and always
 wondered why the UK was so dedicated to indirect belay. US and Canadian climbing guides have taught me to use direct
