@@ -38,7 +38,7 @@ There were fewer new things here than I thought, but:
 There's probably more I missed!
 
 <center>
-<img src="/photos/gristone/flying-buttress.jpg" width="50%" title="Flying Buttress" alt="Me, leading Flying Buttress">
+<img src="/photos/gritsone/flying-buttress.jpg" width="50%" title="Flying Buttress" alt="Me, leading Flying Buttress">
 
 _Climbing a crag, not a cliff_
 </center>
@@ -107,7 +107,7 @@ Some just generally interesting things:
   cliff, including some folks there for a birthday party
 
 <center>
-<img src="/photos/gristone/inverted-v.jpg" width="50%" title="Inverted V" alt="Me, following">
+<img src="/photos/gritstone/inverted-v.jpg" width="50%" title="Inverted V" alt="Me, following">
 
 _Topping out on the Top 50 Classic "Inverted V"_
 </center>
@@ -118,7 +118,7 @@ The Brits only use tube-style devices[^5] for trad climbing. My guide prohibited
 crag one using an ABD. I think this actually makes a lot of sense based on the climbing I saw.
 
 <center>
-<img src="/photos/gristone/indirect-belay.jpg" width="50%" title="Indirect belay" alt="Me, sitting by the cliff edge, giving a staged indirect belay">
+<img src="/photos/gritstone/indirect-belay.jpg" width="50%" title="Indirect belay" alt="Me, sitting by the cliff edge, giving a staged indirect belay">
 
 _Demonstrating an indirect belay, after my follower topped out_
 </center>
