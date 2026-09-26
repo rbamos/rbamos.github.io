@@ -42,6 +42,8 @@ There's probably more I missed!
 
 <p><i>Climbing a crag, not a cliff</i>
 </center>
+<p>
+<p>
 
 ## British Trad Grades
 If you watch British Trad Climbing videos with pro climbers, you'll see these climbs where some lunatic is
@@ -112,6 +114,8 @@ Some just generally interesting things:
 <p>
 <i>Topping out on the Top 50 Classic "Inverted V"</i>
 </center>
+<p>
+<p>
 
 
 ## Climbing technical skills
@@ -124,6 +128,8 @@ crag one using an ABD. I think this actually makes a lot of sense based on the c
 <p>
 <i>Demonstrating an indirect belay, after my follower topped out</i>
 </center>
+<p>
+<p>
 
 For belaying the leader, the typical protection is more marginal than I've seen at other crags. The protection on the
 climbs we chose was certainly ample (G/PG), but many of the cam placements were shallow or flaring. Nuts and hexes
