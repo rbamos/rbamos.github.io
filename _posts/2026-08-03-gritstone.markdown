@@ -40,6 +40,7 @@ There's probably more I missed!
 <center>
 <img src="/photos/gritstone/flying-buttress.jpg" width="50%" title="Flying Buttress" alt="Me, leading Flying Buttress">
 
+<p>
 _Climbing a crag, not a cliff_
 </center>
 
@@ -109,6 +110,7 @@ Some just generally interesting things:
 <center>
 <img src="/photos/gritstone/inverted-v.jpg" width="50%" title="Inverted V" alt="Me, following">
 
+<p>
 _Topping out on the Top 50 Classic "Inverted V"_
 </center>
 
@@ -120,6 +122,7 @@ crag one using an ABD. I think this actually makes a lot of sense based on the c
 <center>
 <img src="/photos/gritstone/indirect-belay.jpg" width="50%" title="Indirect belay" alt="Me, sitting by the cliff edge, giving a staged indirect belay">
 
+<p>
 _Demonstrating an indirect belay, after my follower topped out_
 </center>
 
