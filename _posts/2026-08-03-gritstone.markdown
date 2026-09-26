@@ -40,10 +40,12 @@ There's probably more I missed!
 <center>
 <img src="/photos/gritstone/flying-buttress.jpg" width="50%" title="Flying Buttress" alt="Me, leading Flying Buttress">
 
-<p><i>Climbing a crag, not a cliff</i>
+
+<p/>
+<i>Climbing a crag, not a cliff</i>
 </center>
-<p>
-<p>
+<p/>
+<p/>
 
 ## British Trad Grades
 If you watch British Trad Climbing videos with pro climbers, you'll see these climbs where some lunatic is
@@ -111,11 +113,11 @@ Some just generally interesting things:
 <center>
 <img src="/photos/gritstone/inverted-v.jpg" width="50%" title="Inverted V" alt="Me, following">
 
-<p>
+<p/>
 <i>Topping out on the Top 50 Classic "Inverted V"</i>
 </center>
-<p>
-<p>
+<p/>
+<p/>
 
 
 ## Climbing technical skills
@@ -125,11 +127,11 @@ crag one using an ABD. I think this actually makes a lot of sense based on the c
 <center>
 <img src="/photos/gritstone/indirect-belay.jpg" width="50%" title="Indirect belay" alt="Me, sitting by the cliff edge, giving a staged indirect belay">
 
-<p>
+<p/>
 <i>Demonstrating an indirect belay, after my follower topped out</i>
 </center>
-<p>
-<p>
+<p/>
+<p/>
 
 For belaying the leader, the typical protection is more marginal than I've seen at other crags. The protection on the
 climbs we chose was certainly ample (G/PG), but many of the cam placements were shallow or flaring. Nuts and hexes
