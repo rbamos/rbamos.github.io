@@ -6,7 +6,6 @@ categories:
 ---
 
 
-<!-- How do I do footnotes? -->
 
 
 I was in London in early August, and I hired a guide with [Head On Out](https://www.headonout.co.uk/) to climb in the  
