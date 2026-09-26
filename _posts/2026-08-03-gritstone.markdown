@@ -38,7 +38,7 @@ There were fewer new things here than I thought, but:
 There's probably more I missed!
 
 <center>
-<img src="/photos/gritsone/flying-buttress.jpg" width="50%" title="Flying Buttress" alt="Me, leading Flying Buttress">
+<img src="/photos/gritstone/flying-buttress.jpg" width="50%" title="Flying Buttress" alt="Me, leading Flying Buttress">
 
 _Climbing a crag, not a cliff_
 </center>
